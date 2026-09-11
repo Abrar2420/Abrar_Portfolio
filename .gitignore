@@ -28,3 +28,9 @@ CLAUDE.md
 *.njsproj
 *.sln
 *.sw?
+
+# Playwright MCP output
+.playwright-mcp/
+
+# Local reference screenshots
+/*.png
