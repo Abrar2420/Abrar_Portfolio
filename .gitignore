@@ -14,8 +14,9 @@ dist-ssr
 .env
 .env.*
 
-# Claude Code local settings
-.claude/settings.local.json
+# Claude Code
+.claude/
+CLAUDE.md
 
 # Editor directories and files
 .vscode/*

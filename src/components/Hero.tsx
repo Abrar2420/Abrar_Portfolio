@@ -32,7 +32,7 @@ function CyclingGreeting() {
   }, [])
 
   return (
-    <span className="inline-grid align-baseline">
+    <span className="inline-grid align-baseline text-center">
       {GREETINGS.map((greeting, i) => (
         <motion.span
           key={greeting.lang}
